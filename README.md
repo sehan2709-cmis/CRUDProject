@@ -1,7 +1,7 @@
 # CRUDProject
 Practical Project1 CRUD 1st Project
 
----------9월 7일--------
+---------9월 7일--------\n
 <img
      src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/1.PNG?raw=true">
      
@@ -25,7 +25,7 @@ Practical Project1 CRUD 1st Project
 
 
 
----------9월 11일--------
+---------9월 11일--------\n
 <img
      src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/edditedthings.png?raw=true">
      
