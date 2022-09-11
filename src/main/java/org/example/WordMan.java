@@ -28,16 +28,17 @@ public class WordMan {
     }
 
     public void start(){
+        wordCRUD.loadFile();
         while(true) {
             int menu = selectMenu();
-            if(menu == 0) break;
-            else if(menu == 4) {
-                wordCRUD.addWord();
-                //create
-            } else if(menu == 1) {
-                wordCRUD.listALl();
-                //list;
-            }
+            if(menu == 0) {System.out.println("끝"); break;}
+            else if(menu == 1) wordCRUD.listAll();
+            else if(menu == 2) wordCRUD.searchLevel();
+            else if(menu == 3) wordCRUD.searchWord();
+            else if(menu == 4) wordCRUD.addItem();
+            else if(menu == 5) wordCRUD.updateItem(); //update
+            else if(menu == 6) wordCRUD.deleteItem(); //delete
+            else if(menu == 7) wordCRUD.saveFile(); //delete
         }
     }
 

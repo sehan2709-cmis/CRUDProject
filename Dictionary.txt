@@ -1,0 +1,41 @@
+3|superintendent|관리자, 감독관
+1|electric|전기의, 전기를 생선하는
+2|equipment|장비, 용품
+1|pole|기둥, 장대
+1|formerly|이전에, 예전에
+1|transfer|옮기다, 이동하다
+1|executive|경영 간부, 임원
+3|Abate|reduce in intensity
+3|Aberration|deviation from the normal
+3|Abeyance|Temporary cessation or suspension
+2|Abhor|hate
+1|Abjure|renounce; swear to refrain from something
+3|Abraded|worn away; eroded [abrade (v); abrasion (n)]
+1|Abrasion|damage to skin caused by scraping; 2process of scraping or rubbing [abrade (v)]
+1|Abrasive|rough; coarse; harsh
+3|Abrogate|abolish
+2|Contiguous|adjacent; touching; abutting [contiguity (n)]
+2|Contrite|remorseful; penitent; repentant
+1|Contrition|sorrow and repentance
+3|Contumacious|stubborn; insubordinate
+2|Contusion|a bruise
+2|Conundrum|a puzzle
+2|Conventional|usual; customary; common
+3|Cornucopia|symbol (horn filled with fruit etc.) denoting natural abundance
+2|Corpulent|fat
+3|Corroborate|give supporting evidence [corroboration (n)]
+1|Ire|anger [irate (a) = very angry]
+3|Irksome|annoying; infuriating
+1|Ironclad|cannot be altered; firm
+3|Ironic|satiric; unexpected
+2|Irrational|unreasonable; absurd
+3|Irreproachable|cannot be criticized; perfect
+3|Irrevocable|cannot be cancelled; unchangeable
+1|Itinerant|nomadic; wandering from place to place
+1|Monotonous|dull; unvarying
+2|Moralistic|concerned with morals [moralize (v)]
+3|Moratorium|temporary prohibition or halt to activity
+2|Moribund|on the point of death
+1|Morose|gloomy; bad tempered
+3|Mundane|ordinary; worldly
+3|Munificent|generous; charitable
