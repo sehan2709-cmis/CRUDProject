@@ -2,29 +2,30 @@
 Practical Project1 CRUD 1st Project
 22100052 권세한 실전프로젝트 2분반
 
+##1) 모든 단어 보기
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num1.png?raw=true">
-     * 1) 모든 단어 보기
-     
+
+##2) 수준별 단어 보기
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num2.png?raw=true">
-     * 2) 수준별 단어 보기
-     
+
+##3) 단어 검색
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num3.png?raw=true">
-     * 3) 단어 검색
-     
+
+##4) 단어 추가
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num4.png?raw=true">
-     * 4) 단어 추가
-     
+
+##5) 단어 수정
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num5.png?raw=true">
-     * 5) 단어 수정
-     
+    
+##6) 단어 삭제
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num6.png?raw=true">
-     * 6) 단어 삭제
-     
+
+##7) 단어 저장   
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num7.png?raw=true">
-     * 7) 단어 저장
-     
+
+##0) 프로그램 끝내기 
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num0.png?raw=true">
-     * 0) 프로그램 끝내기
+
      
      
 <img src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/file.png?raw=true">
