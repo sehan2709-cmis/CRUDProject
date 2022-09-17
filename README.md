@@ -1,46 +1,45 @@
 # CRUDProject
 Practical Project1 CRUD 1st Project
-
-     ---------9월 7일--------
+22100052 권세한 실전프로젝트 2분반
 
 <img
-     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/1.PNG?raw=true">
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num1.png?raw=true">
+     1) 모든 단어 보기
      
-     위 사진은 4번 단어추가 와 1번 모든 단어 보기가 재대로 작동함을 보여준다.
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num2.png?raw=true">
+     2) 수준별 단어 보기
+     
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num3.png?raw=true">
+     3) 단어 검색
+     
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num4.png?raw=true">
+     4) 단어 추가
+     
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num5.png?raw=true">
+     5) 단어 수정
+     
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num6.png?raw=true">
+     6) 단어 삭제
+     
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num7.png?raw=true">
+     7) 단어 저장
+     
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num7.png?raw=true">
+     7) 단어 저장
+     
+<img
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/num0.png?raw=true">
+     0) 프로그램 끝내기
      
      
 <img
-     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/2.PNG?raw=true">
+     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/file.png?raw=true">
+     * 파일은 프로젝트 파일 (CRUDProject) 안에 "Dictionary.txt"라는 파일이 있다. 프로젝트를 시작할때 파일 가져오기 및 프로젝트 저장하기 할때에 "Dictionary.txt"를 수정 혹은 불러오기 하게 된다.
      
-     위 사진은 첫번째 사진에서 추가적으로 똑같은 방법으로 4번 단어추가 와 1번 모든 단어 보기를 작동시켰을때, 이전과 동일하게 재대로 작동함을 보여준다.
-     
-          
-<img
-     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/3.PNG?raw=true">
-
-
-     위 사진은 0을 입력하였을때, 재대로 저장하고 프로그램을 끝내는 것을 확인 할 수 있다.
-
-
-
-
-
-
-     ---------9월 11일--------
-<img
-     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/edditedthings.png?raw=true">
-     
-     위 사진과 같이 0-7번까지 다른 기능들을 구현했음을 확일 할 수 있다.
-     
-     
-<img
-     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/readfile.png?raw=true">
-     
-     파일을 읽는 것에 있어, BufferReader class를 사용하였으며, 빨간색 팬으로 밑줄 쳤듯, try and catch를 사용하여 파일에 있는 정보들을 확보하였다.
-     
-          
-<img
-     src= "https://github.com/sehan2709-cmis/CRUDProject/blob/master/screenshots/savefile.png?raw=true">
-     
-     파일을 수정/저장하는 것에 있어, PrintWriter를 사용하였으며, PrintWriter의 특징으로 인하여 for loop를 사용하여 한줄한줄 write하는 것을 확인 할 수 있다.
-     앞서 파일을 읽는 것과 동일하게 try and catch를 활용하여 파일에 정보들을 저장하였다.
